@@ -23,4 +23,4 @@ skills/
 
 | Skill | 用途 | 状态 |
 | --- | --- | --- |
-| _（待添加）_ | | |
+| [xlsmart-skill-authoring](skills/xlsmart-skill-authoring/SKILL.md) | 把运营同事的自然语言需求变成标准 skill，或修改已有 skill 并推送仓库 | 可用 |
