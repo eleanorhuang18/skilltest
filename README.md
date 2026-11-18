@@ -24,4 +24,4 @@ skills/
 | Skill | 用途 | 状态 |
 | --- | --- | --- |
 | [xlsmart-skill-authoring](skills/xlsmart-skill-authoring/SKILL.md) | 把运营同事的自然语言需求变成标准 skill，或修改已有 skill 并推送仓库 | 可用 |
-| [package-sales-diagnosis](skills/package-sales-diagnosis/SKILL.md) | 诊断指定套餐卖不动的原因，输出归因排序与可执行动作 | 草稿 |
+| [package-sales-diagnosis](skills/package-sales-diagnosis/SKILL.md) | 诊断指定套餐卖不动的原因，输出归因排序与可执行动作 | 可用 |
